@@ -4,15 +4,11 @@
       "details": [
         {
           "appID": "GVN4U8DS2V.com.merutechnology.meru",
-          "paths": [
-            "*"
-          ]
+          "paths":["NOT /_/*","/*"]
         },
         {
           "appID": "GVN4U8DS2V.com.merutechnology.meru.staging",
-          "paths": [
-            "*"
-          ]
+          "paths":["NOT /_/*","/*"]
         }
       ]
     }

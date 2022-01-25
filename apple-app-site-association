@@ -1,0 +1,19 @@
+{
+    "applinks": {
+      "apps": [],
+      "details": [
+        {
+          "appID": "GVN4U8DS2V.com.merutechnology.meru",
+          "paths": [
+            "*"
+          ]
+        },
+        {
+          "appID": "GVN4U8DS2V.com.merutechnology.meru.staging",
+          "paths": [
+            "*"
+          ]
+        }
+      ]
+    }
+  }
